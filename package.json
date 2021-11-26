@@ -1,0 +1,13 @@
+{
+  "name": "ts-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node exercise-basic/ts-basic.js",
+    "dev":"ts-node exercise-basic/ts-basic.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
